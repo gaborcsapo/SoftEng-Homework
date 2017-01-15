@@ -1,0 +1,12 @@
+package exc;
+
+@SuppressWarnings("serial")
+public class GameStateException extends Exception {
+    public GameStateException() {
+        super();
+    }
+    
+    public GameStateException(String message) {
+        super(message);
+    }
+}

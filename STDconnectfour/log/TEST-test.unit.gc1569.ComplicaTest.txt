@@ -1,0 +1,15 @@
+Testsuite: test.unit.gc1569.ComplicaTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.267 sec
+
+Testcase: testOutofOrderHorizontalWinnerFound took 0.224 sec
+Testcase: testInitSetsPlayer took 0 sec
+Testcase: testColumnNotBounded took 0.001 sec
+Testcase: testVerticalWinnerFound took 0.001 sec
+Testcase: testNextPlayerSetAfterPlacedDisk took 0.001 sec
+Testcase: testDisksCannotBePlacedOutOfBounds took 0 sec
+Testcase: testInitSetsRows took 0 sec
+Testcase: testInitSetsColumns took 0 sec
+Testcase: testInitBlanksBoard took 0 sec
+Testcase: testHorizontalWinnerFound took 0 sec
+Testcase: testNoWinnerIfBothHaveFour took 0.001 sec
+Testcase: testDisksCannotBePlacedNegatively took 0 sec
